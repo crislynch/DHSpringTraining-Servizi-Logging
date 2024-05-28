@@ -1,0 +1,14 @@
+2024-05-28 23:59:25.622 [restartedMain] INFO  com.cris.mannagg.MannaggApplication - Starting MannaggApplication using Java 22.0.1 with PID 8540 (/Users/crislynch/Downloads/mannagg 5/target/classes started by crislynch in /Users/crislynch/Downloads/mannagg 5)
+2024-05-28 23:59:25.624 [restartedMain] INFO  com.cris.mannagg.MannaggApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-28 23:59:25.650 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-28 23:59:25.650 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-28 23:59:26.191 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-05-28 23:59:26.198 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-28 23:59:26.200 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-28 23:59:26.200 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-05-28 23:59:26.225 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-28 23:59:26.226 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 575 ms
+2024-05-28 23:59:26.439 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-05-28 23:59:26.447 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-28 23:59:26.452 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-05-28 23:59:26.457 [restartedMain] INFO  com.cris.mannagg.MannaggApplication - Started MannaggApplication in 1.129 seconds (process running for 1.417)
